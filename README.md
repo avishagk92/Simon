@@ -1,1 +1,1 @@
-# Simon-V2
+# Simon
